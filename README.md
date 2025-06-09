@@ -20,6 +20,11 @@ Devuelve la clase predicha en formato legible.
 
 ## Cómo usarla
 ### Ejemplo de solicitud (POST)
+
+Ingresa a:
+
+[Visita mi despliege de FastAPI en Render](https://clasificacion-alpha-betha.onrender.com/docs#/default/predict_predict_post)
+
 json
 POST /predict  
 {  
